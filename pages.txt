@@ -1,0 +1,6 @@
+/^https?:\/\/\w*\.?\w*-?soku\w*\.?\w*/
+/^https?:\/\/\w*\.?\w*-?matome\w*\.?\w*/
+/\w+\/\w*-?soku\w*/
+*://blog.esuteru.com/*
+*://jin115.com/*
+
